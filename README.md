@@ -1,16 +1,5 @@
-# retrofit_api
+🚀 Retrofit API in Flutter Demo
 
-A new Flutter project.
+Retrofit is a type-safe HTTP client for Flutter, built on top of the dio package. It simplifies API calls by using annotations to define HTTP methods, making API requests cleaner and more maintainable.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-02-17 154008](https://github.com/user-attachments/assets/79ca7fe9-9b43-4ed6-9f99-867a807a665c)
